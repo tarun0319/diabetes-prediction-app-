@@ -32,7 +32,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ├── template
 │   ├── home.html
 ├── Procfile
-├── README.md
+├── diabetes.ipynb
 ├── app.py
 ├── diabetes_model.pkl
 ├── requirements.txt
